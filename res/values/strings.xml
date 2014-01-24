@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Msg+</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button">Compose New Message</string>
+    <string name="to">Add Reciepient :</string>
+    <string name="msg">Enter Message :</string>
+    <string name="send">Encrypt And Send</string>
+    <string name="refresh">Refresh</string>
+    <string name="about">About Us</string>
+    <string name="settings">Settings</string>
+
+</resources>
